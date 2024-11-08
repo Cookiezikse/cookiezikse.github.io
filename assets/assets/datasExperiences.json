@@ -1,0 +1,70 @@
+{
+    "Egolf-series" : {
+        "Name": "EGOLF SERIES", 
+        "Key" : "Egolf-series",
+        "Job" : "Hybrid App Developer",
+        "Skills" : ["Flutter", "Dart", "Firebase", "Android Studio", "Visual Studio Code","Figma"], 
+        "Link_Entreprise" : "https://www.egolfseries.com/",
+        "GameType" : ["App"],
+        "Tasks-FR" : [
+            "Apprendre un nouveau langage de programmation (Dart)",
+            "Apprendre un nouveau framework (Flutter)",
+            "Utilisation de Firebase pour les connexions (Apple, Google)",
+            "Utiliser des REST API",
+            "Développer les différentes pages / fonctionnalités de l'application",
+            "Communiquer en équipe (Réunions de groupe)",
+            "Apprendre à utiliser Figma pour faire du design",
+            "Développer ma vision de l'UX/UI pour les applications"
+        ],
+        "Tasks-EN" : [
+            "Learn a new programming language (Dart)",
+            "Learn a new framework (Flutter)",
+            "Use Firebase for connections (Apple, Google)",
+            "Use REST API",
+            "Develop the different pages / features of the application",
+            "Communicate in team (Group meetings)",
+            "Learn to use Figma to do design",
+            "Develop my vision of UX/UI for applications"
+        ],
+        "DescriptionJob-FR" : "En tant que Développeur d'application hybride, j'ai appris à utiliser Flutter et Dart pour développer des applications mobiles. J'ai travaillé sur l'application EGOLF SERIES, une application qui permet d'avoir un leaderboard mondial en strokeplay net. J'ai appris à utiliser Firebase pour les connexions, et à utiliser des REST API pour récupérer des données. J'ai aussi appris à utiliser Figma pour faire du design, et à développer ma vision de l'UX/UI pour les applications.",
+        "DescriptionJob-EN" : "As a Hybrid App Developer, I learned to use Flutter and Dart to develop mobile applications. I worked on the EGOLF SERIES application, an application that allows you to have a global leaderboard in net strokeplay. I learned to use Firebase for connections, and to use REST API to retrieve data. I also learned to use Figma to do design, and to develop my vision of UX/UI for applications.",
+        "NumPersonnes" : 4, 
+        "NumSemaines" : 8, 
+        "Location" : "Paris",
+        "Importance" : 0,
+        "Link-AppleStore" : "",
+        "Link-GooglePlay" : "",
+        "Story-EN" : "EGOLF SERIES is an international golf league offering a global ranking in Stroke Play NET. Wherever you are, whatever your handicap, join us and compare your game to golfers around the world.",
+        "Story-FR" : "EGOLF SERIES est une ligue de golf internationale proposant un classement mondial en Stroke Play NET. Où que vous soyez, quel que soit votre handicap, rejoignez-nous et comparez votre jeu aux golfeurs du monde entier.",
+        "Image" : "assets/EgolfSeries/1.webp",
+        "Images" : ["assets/EgolfSeries/1.webp", "assets/EgolfSeries/2.webp", "assets/EgolfSeries/3.webp", "assets/EgolfSeries/4.webp"]
+    },
+    "NoisetteStudio" : {
+        "Name": "Noisette Studio", 
+        "Key" : "NoisetteStudio",
+        "Job" : "Game Designer",
+        "Skills" : ["Game Design", "Teamwork", "Communication"],
+        "Link_Entreprise" : "https://noisetr.cluster031.hosting.ovh.net/",
+        "GameType" : ["Game"],
+        "Tasks-FR" : [
+            "Création d'un gameplay",
+            "Communication entre les différents GD",
+            "Analyse de data pour faire des changements",
+            "Analyse de data pour faire des changements",
+            "Community Manager (Discord)"
+        ],
+        "Tasks-EN" : [
+            "Creation of a gameplay",
+            "Communication between the different GD",
+            "Data analysis to make changes",
+            "Data analysis to make changes",
+            "Community Manager (Discord)"
+        ],
+        "DescriptionJob-FR" : "En tant que Game Designer, j'ai appris à travailler en équipe pour créer un jeu de société. J'ai appris à communiquer avec les autres Game Designer pour créer un gameplay amusant et simple. J'ai aussi appris à analyser des données pour faire des changements dans le jeu. J'ai aussi été Community Manager sur Discord.",
+        "DescriptionJob-EN" : "As a Game Designer, I learned to work in a team to create a board game. I learned to communicate with other Game Designers to create a fun and simple gameplay. I also learned to analyze data to make changes in the game. I was also a Community Manager on Discord.",
+        "NumPersonnes" : 4,
+        "NumSemaines" : 8,
+        "Importance" : 1,
+        "Image" : "assets/NoisetteStudio/1.jpeg"
+    }
+}
