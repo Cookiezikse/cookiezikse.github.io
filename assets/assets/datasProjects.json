@@ -33,6 +33,40 @@
       "Images" : ["assets/GameEngine/1.JPG"],
       "LinkGithub" : "https://github.com/Cookiezikse/An-Gine-Self"
     },
+    "Beam": {
+      "Key" : "Beam",
+      "Name": "Beam!",
+      "Job" : "Gameplay / Tools Programmer",
+      "Type" : "Couch Game",
+      "Skills" : ["Unreal Engine", "C++"],
+      "GameType" : ["Little Fight", "Couch Game"], 
+      "Tasks-FR" : [
+        "Création de la state machine avec tous les états / mouvements du joueur (Idle, Walk, Jump, Stun, Projection, Fly)", 
+        "Système de caméra dynamique pour la vue du jeu",
+        "Tools : Création d’un debug utils sur l’écran pour gérer des valeurs du Player",
+        "Intégration des VFX à tous les endroits requis, pour avoir une superbe expérience",
+        "Corrections de bugs pouvant impacter plus ou moins le gameplay"
+        ],
+      "Tasks-EN" : [
+        "Create the state machine with all the states / movements of the player (Idle, Walk, Jump, Stun, Projection, Fly)", 
+        "Dynamic camera system for the game",
+        "Tools : Creation of a Debug Utils tools directly in the screen to change the values of the Player",
+        "Integrate all the VFX in all required places, to have a better and nicer experience with the game",
+        "Fixed bugs that could impact the gameplay and user experience"
+      ],
+      "DescriptionJob-FR" : "En tant que Gameplay / Tools Programmer, j'ai du maintenir l'état du jeu et des features présentes, tout en rajoutant des features qui devaient ne pas causer de bugs. J'ai aussi dû créer un tool pour aider les game designers pour changer les valeurs sur le jeu, qui est un élément principal de notre jeu et expérience. Je m'occupais aussi de l'intégration des VFX avec l'aide de notre Tech Art.",
+      "DescriptionJob-EN" : "As a Gameplay / Tools Programmer, I had to maintain the game and features in a stable state, while adding new features that should'nt break the game and cause bugs. Also, I created a tool for the game designers to help them to change the values in the game directly, because the values are very important for the game since it's a Little Fight. I also had to integrate all the VFX in the game with the help of our Tech Artist",
+      "NumPersonnes" : 12, 
+      "NumSemaines" : 12, 
+      "Location" : "IIM Digital School",
+      "Importance" : 0,
+      "Image" : "./assets/Beam/ItchIO_Cover.png",
+      "Story-EN" : "BEAM! Is a two-player 2D versus fighting game set in a distant future where as mechas, players fight against each other in an arena to resolve conflicts between factions.",
+      "Story-FR" : "BEAM! est un jeu de combat 2D en versus pour deux joueurs, se déroulant dans un futur lointain où les joueurs, incarnant des mechas, s'affrontent dans une arène pour régler les conflits entre différentes factions.",
+      "LinkItchIo" : "https://lise-finet.itch.io/beam",
+      "ItchIoEmbed" : "\"\"<iframe frameborder=\"0\" src=\"https://itch.io/embed/3117672\" width=\"552\" height=\"167\"><a href=\"https://lise-finet.itch.io/beam\">BEAM! by Lise Finet, riufix, Clem M, Sillurgy, CookieKrips, lanfeust.roque@gmail.com, Renard Futile, AheroSpark, Frost Wick, Josuk8balls</a></iframe>\"\"",
+      "Images" : ["assets/Beam/Gorlax_full.png", "assets/Beam/spartamus_full.png"]
+    },
     "LoopOut": {
       "Key" : "LoopOut",
       "Name": "Loop Out",
@@ -217,17 +251,6 @@
       "Story-EN" : "CookieJam is a discord bot to play music on your server ! Just type /play and the name of the music you want to play, and the bot will join your voice channel and play the music ! \n I created it because a friend couldn't find a good music bot for her server, so I decided to create one for her.",
       "Story-FR" : "CookieJam est un bot discord pour jouer de la musique sur votre serveur ! Tapez simplement /play et le nom de la musique que vous voulez jouer, et le bot rejoindra votre salon vocal et jouera la musique ! \n J'ai créé ce bot musique car une amie ne trouvait pas de bon bot musique pour son serveur, j'ai donc décidé d'en créer un pour elle.",
       "Image" : "./assets/logo.png"
-    },
-    "Beam": {
-      "Key" : "Beam",
-      "Name": "Beam!",
-      "Job" : "Gameplay Developper",
-      "Skills" : ["Unreal Engine", "Blueprint", "C++"],
-      "GameType" : ["Little Fight"], 
-      "NumPersonnes" : 8, 
-      "NumSemaines" : 12, 
-      "Location" : "IIM Digital School",
-      "Importance" : 0
     },
     "NoteApp": {
       "Key" : "NoteApp",
